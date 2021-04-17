@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#GOOGLE JSON FILE
+festive-bloom-310805-firebase-adminsdk-6aycz-67bf2fb938.json
+
 # C extensions
 *.so
 
